@@ -1,5 +1,11 @@
 # @tanstack/vue-router
 
+## 1.170.25
+
+### Patch Changes
+
+- [#8002](https://github.com/TanStack/router/pull/8002) [`3848503`](https://github.com/TanStack/router/commit/38485038c52ff898777cabeeeb2eaaa29c93f789) - Keep active route components mounted by default when route params change.
+
 ## 1.170.24
 
 ### Patch Changes
